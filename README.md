@@ -1,2 +1,2 @@
 # sample-git
-just demo
+just demo, Watching youtube tutorial and doing practice.
